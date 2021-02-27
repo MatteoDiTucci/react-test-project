@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+
+![CI/CD](https://github.com/matteoditucci/react-test-project/workflows/CI/CD/badge.svg)
+
 
 ## Available Scripts
 
